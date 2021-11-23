@@ -27,3 +27,4 @@ Get-WinEvent
 #>
 
 Get-Help YourCommand -Full                  #List also the parameter metadata
+Get-Alias                                    # List all available Alias for commands
